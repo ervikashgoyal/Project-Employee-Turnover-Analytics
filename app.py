@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import pickle
 import streamlit as st
-import sklearn
 
 df= pd.read_excel("1673873196_hr_comma_sep.xlsx")
 
