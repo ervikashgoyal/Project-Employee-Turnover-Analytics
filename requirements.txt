@@ -1,5 +1,6 @@
 pandas
 numpy
-sklearn
 streamlit
 openpyxl
+scikit-learn==1.1.2
+sklearn==0.0
