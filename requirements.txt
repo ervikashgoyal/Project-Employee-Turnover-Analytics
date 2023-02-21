@@ -8,15 +8,11 @@ ipywidgets==8.0.2
 Markdown==3.4.1
 markdown-it-py==2.1.0
 MarkupSafe==2.1.1
-matplotlib==3.6.0
-matplotlib-inline==0.1.6
 numpy==1.23.3
-oauthlib==3.2.2
 openpyxl==3.0.10
-opt-einsum==3.3.0
-packaging==21.3
 pandas==1.5.0
-pandocfilters==1.5.0pickleshare==0.7.5
+pandocfilters==1.5.0
+pickleshare==0.7.5
 scikit-image==0.19.3
 scikit-learn==1.1.2
 sklearn==0.0
